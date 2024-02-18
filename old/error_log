@@ -1,0 +1,227 @@
+[11-Jul-2020 03:43:31 UTC] PHP Warning:  symlink(): File exists in /home/bimalakc/public_html/symlic.php on line 2
+[18-Oct-2020 23:09:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bimalakc/public_html/system/vendor/autoload.php on line 5
+[02-Mar-2023 16:43:29 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[18-Mar-2023 11:22:49 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[26-Mar-2023 05:38:12 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[27-Mar-2023 08:04:30 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[29-Mar-2023 09:01:52 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[06-Apr-2023 21:36:53 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[07-Apr-2023 07:21:13 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[11-Apr-2023 11:59:38 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[05-May-2023 14:53:49 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[08-May-2023 11:53:59 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[08-May-2023 11:53:59 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[08-May-2023 11:53:59 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[08-May-2023 11:53:59 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[30-Jun-2023 20:55:21 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[11-Aug-2023 21:27:01 Asia/kathmandu] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1338
+Stack trace:
+#0 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(444): include('/home2/bimalakc...')
+#2 /home2/bimalakc/public_html/old/system/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#3 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home2/bimalakc/public_html/old/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home2/bimalakc/public_html/old/system/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11

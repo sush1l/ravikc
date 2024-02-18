@@ -1,0 +1,2 @@
+[28-Feb-2023 06:54:06 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home2/bimalakc/public_html/vendor/composer/platform_check.php on line 24
+[28-Feb-2023 07:03:23 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home2/bimalakc/public_html/vendor/composer/platform_check.php on line 24
